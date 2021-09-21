@@ -13,4 +13,4 @@ just protocol
 
 Testando edição agora!
 
-Reenviando...
+Reenviando... Testando o stash!
